@@ -1,4 +1,5 @@
 ❤️ Heart Disease Prediction using Machine Learning
+
 🩺 Project Overview
 This project aims to predict the early stages of heart disease by utilizing machine learning models trained on clinical data. Unlike traditional binary risk tools, our system provides a personalized, probability-based risk score, helping individuals understand their cardiovascular health more accurately.
 
